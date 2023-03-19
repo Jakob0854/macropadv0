@@ -1,7 +1,7 @@
 
 # macropadv1 (rp hid)
 
-A multifunctional macropad with different presets, a rotary wheel that snaps back to middle and an LCD display.
+A multifunctional macropad with different presets, a rotary wheel that snaps back to middle, RGB lightning and an LCD display.
 
 
 ## Features
