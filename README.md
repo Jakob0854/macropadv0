@@ -1,7 +1,7 @@
 
 # macropadv1 (rp hid)
 
-A multifunctional macropad with different presets, a rotary wheel that snaps back to middle, RGB lighting and an LDC display.
+A multifunctional macropad with different presets, a rotary wheel that snaps back to middle and an LDC display.
 
 
 ## Features
@@ -14,13 +14,14 @@ A multifunctional macropad with different presets, a rotary wheel that snaps bac
 - show current time on display (only with additional software)
 
 ### Software
+![Logo](https://raw.githubusercontent.com/Jakob0854/macropadv1/3b569c79d11b16fb457e474a4260102da096ec3d/docs/pictures/Screenshot%202023-03-19%20201016.png)
 - choose COM Port
 - RGB controls
     - Fade
     - set R, G, B, from 0 to 255 with three sliders
 - Display
-    - active layout (1-4)
-    - current time
+    - show active layout (1-4)
+    - show current time
     - off
 
 
