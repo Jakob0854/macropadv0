@@ -1,0 +1,16 @@
+C:\Users\jakob\source\repos\macropad.final\macropad.final\bin\Debug\macropad.final.exe.config
+C:\Users\jakob\source\repos\macropad.final\macropad.final\bin\Debug\macropad.final.exe
+C:\Users\jakob\source\repos\macropad.final\macropad.final\bin\Debug\macropad.final.pdb
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\MainWindow.g.cs
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\App.g.cs
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final_MarkupCompile.cache
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final_MarkupCompile.lref
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\MainWindow.baml
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.g.resources
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.Properties.Resources.resources
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.csproj.GenerateResource.cache
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.exe
+C:\Users\jakob\source\repos\macropad.final\macropad.final\obj\Debug\macropad.final.pdb
