@@ -1,6 +1,8 @@
 
 # macropadv0 (rp hid)
 
+Please :star: it, when you used or seen it. Thanks!
+
 A multifunctional macropad with different presets, a rotary wheel that snaps back to middle, RGB lightning and an LCD display.
 
 
